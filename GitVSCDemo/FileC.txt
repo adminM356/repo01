@@ -1,0 +1,2 @@
+This is FileC
+This file is only present in featureA branch.
